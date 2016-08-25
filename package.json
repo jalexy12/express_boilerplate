@@ -1,0 +1,23 @@
+{
+  "name": "express-mvc-boilerplate",
+  "version": "1.0.0",
+  "description": "Easy express MVC folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-mvc-init": "./index.js"
+  },
+  "keywords": [
+    "express",
+    "mvc",
+    "boilerplate",
+    "easy"
+  ],
+  "author": "jalexy12",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
